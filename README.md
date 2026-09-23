@@ -70,6 +70,5 @@ The code reads characters from Serial one at a time into a string buffer. The bu
 └── README.md
 ```
 
-## License
-
-MIT
+## Author
+Vuong Dinh Trung
